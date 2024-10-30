@@ -1,0 +1,26 @@
+.container-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    background-color: var(--gray-color);
+    box-shadow: inset 0 0 50px rgba(255, 255, 255, 0.719);
+    transition: transform 0.3s ease;
+    font-weight: 600;
+}
+.tittle-card-div{
+    border-bottom: 1px solid black	;
+    width: 80%;
+}
+.tittle-card-feature{
+    color: var(--background-color);
+    font-size: 1.3em;
+    font-family: 'Montserrat';
+}
+
+.card-svg{
+    width: 70px;
+}
