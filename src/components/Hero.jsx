@@ -1,4 +1,4 @@
-import Slider from '../../public/cover.png'
+import Slider from '../../public/Cover.png'
 
 import '../assets/css/Comic-button.css'
 import Button from './Button'
