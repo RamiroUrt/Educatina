@@ -1,5 +1,4 @@
 import Slider from '../../public/cover.png'
-// import HeaderLg from '../../public/images/logos/header.png'
 
 import '../assets/css/Comic-button.css'
 import Button from './Button'
