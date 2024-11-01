@@ -1,5 +1,6 @@
 import Slider from '/Cover.png'
 
+
 import '../assets/css/Comic-button.css'
 import Button from './Button'
 
