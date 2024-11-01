@@ -24,7 +24,7 @@ const Nav = () => {
         </button>
       </div>
     </div>
-    <div className="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow md:block md:w-auto md:basis-auto md:order-2 md:col-span-6" aria-labelledby="hs-navbar-hcail-collapse">
+    <div id="hs-navbar-hcail"  className="hs-collapse hidden overflow-hidden transition-all duration-300 basis-full grow md:block md:w-auto md:basis-auto md:order-2 md:col-span-6" aria-labelledby="hs-navbar-hcail-collapse">
       <div className="flex flex-col gap-y-4 gap-x-0 mt-5 md:flex-row md:justify-center md:items-center md:gap-y-0 md:gap-x-7 md:mt-0">
         <div>
           <a className="inline-block relative text-background-color focus:outline-none hover:text-neutral-400 focus:text-neutral-400" href="#">Quienes somos</a>
